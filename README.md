@@ -1,6 +1,6 @@
 **atom_open_in_terminal**
 
-This pacakge is designed to work with the [atom.io](https://www.atom.io){:target="_blank"} editor which is running under the *[linux mate](http://mate-desktop.org/)* desktop environment.
+This pacakge is designed to work with the <a href="https://www.atom.io" target="_blank">atom.io</a> editor which is running under the *[linux mate](http://mate-desktop.org/)* desktop environment.
 
 With "open_in_terminal", a user can open a terminal window, at the location passed to it from atom, from the tree-view & the editor.
 
@@ -18,4 +18,4 @@ I am interested in finding a way to get the atom editor plugin to grab a list of
 
 Please let me know if you have any suggestions or pull requestes.
 
-To view all of our Atom editor packages, visit our [Atom editor package](http://www.sitelease.ca/atom-editor-plugins){:target="_blank"} page.
+To view all of our Atom editor packages, visit our [Atom editor package](http://www.sitelease.ca/atom-editor-plugins) page.
