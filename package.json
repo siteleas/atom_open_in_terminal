@@ -1,0 +1,44 @@
+{
+  "name": "open_in_terminal",
+  "main": "./lib/code",
+  "version": "0.6.1",
+  "description": "Allow user to open a Terminal from current directory in Atom tree-view or editor.",
+  "keywords": [
+    "terminal",
+    "command",
+    "linux"
+  ],
+  "activationCommands": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmatt-bit/atom_open_in_terminal.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
+  "readme": "# Open in Terminal\n\n![snapshot](https://raw.githubusercontent.com/lmatt-bit/atom_open_in_terminal/master/screenshot.gif)\n\nThanks to ziyasal's [open-conemu-here](https://github.com/ziyasal/atom-open-conemu-here), I can create \"open_in_terminal\" package. With \"open_in_terminal\", User can open a Terminal in Atom directly from tree-view & editor.  \n\nTo install package from command line:\n```shell\napm install open_in_terminal\n```\n\nNote: This package is only enabled on Linux, that's why \"Terminal\" is used.\n\n##License\nMIT License\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/lmatt-bit/atom_open_in_terminal/issues"
+  },
+  "homepage": "https://github.com/lmatt-bit/atom_open_in_terminal#readme",
+  "_id": "open_in_terminal@0.6.1",
+  "_shasum": "9eca04b3df06570f9755e0fb9cf075f7c0458a9c",
+  "_resolved": "file:../d-11674-29822-hcn3vv/package.tgz",
+  "_from": "../d-11674-29822-hcn3vv/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".coffee": [
+        "lib/code.coffee"
+      ],
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

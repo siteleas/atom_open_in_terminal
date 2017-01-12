@@ -1,0 +1,15 @@
+'context-menu':
+
+  '.tree-view': [
+    {
+      label: 'Open folder in Terminal',
+      command: 'open-in-terminal:open_path'
+    }
+  ]
+
+  'atom-text-editor': [
+    {
+      label: 'Open file folder in Terminal',
+      command: 'open-in-terminal:open'
+    }
+  ]
