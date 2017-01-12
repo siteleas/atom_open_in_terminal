@@ -1,6 +1,6 @@
 **atom_open_in_terminal**
 
-This pacakge is designed to work with the [atom.io](https://www.atom.io/) editor which is running under the *[linux mate](http://mate-desktop.org/)* desktop environment.
+This pacakge is designed to work with the <a href="https://www.atom.io" target="_blank">atom.io</a> editor which is running under the *[linux mate](http://mate-desktop.org/)* desktop environment.
 
 With "open_in_terminal", a user can open a terminal window, at the location passed to it from atom, from the tree-view & the editor.
 
